@@ -17,7 +17,7 @@ function appRouter(app) {
                 'Accept': 'application/json',
                 'Accept-Charset': 'utf-8',
                 'User-Agent': 'Github-language-API',
-                'Authorization': 'Basic ' //Introduce here your credentials
+                'Authorization': 'Basic ' //Introduce here your credential
             }
         };
    
